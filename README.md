@@ -9,9 +9,9 @@ Step 1: Clone the Project
 Clone the project using the following command:
 
 Using HTTP:
-git clone https://github.com/Suhas822/invoice.git
+git clone https://github.com/Suhas822/Invoice_creation.git
 Using SSH:
-git clone git@github.com:Suhas822/invoice.git
+git clone https://github.com/Suhas822/Invoice_creation.git
 Step 2: Create a virtual env python -m venv
 
 Note: For Debian/Ubuntu based systems you may need to install python3.10-venv
